@@ -1,16 +1,49 @@
-## Hi there 👋
+# 👋 Hi, I'm Mohammad Halimi
 
-<!--
-**mohammadhalimi/mohammadhalimi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Full Stack Developer
 
-Here are some ideas to get you started:
+I'm a passionate Full Stack Developer specializing in building scalable, fast and maintainable applications.
+I love working across the entire stack, from backend logic to frontend UI/UX.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tech Stack
+
+### 🧠 Backend
+
+* Node.js
+* Express.js
+
+### 🎨 Frontend
+
+* Next.js
+* Qwik
+* Angular
+* Vue.js
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohammadhalimi\&show_icons=true\&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadhalimi\&layout=compact\&theme=tokyonight)
+
+---
+
+## 🔗 Links
+
+* 🌐 Website: **mohammadhalimi.ir**
+* 💼 LinkedIn: **linkedin.com/in/mohammad-halimi-a85b62299**
+* ✈️ Telegram: **@Mohammad_halimi**
+
+---
+
+## ✍️ About Me
+
+* I enjoy solving complex problems with clean and efficient code.
+* Always learning new technologies and improving my skills.
+* Interested in modern web technologies and scalable applications.
+
+---
+
+⭐️ *Feel free to check out my repositories and connect with me!*
