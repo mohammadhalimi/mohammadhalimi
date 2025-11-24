@@ -11,11 +11,11 @@ I love working across the entire stack, from backend logic to frontend UI/UX.
 
 ### 🧠 Backend
 
-<p> <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="40" height="40"/> <img src="https://img.icons8.com/color/48/000000/express-js.png" alt="Express.js" width="40" height="40"/> </p>
+<p> <img src="https://img.icons8.com/fluent/48/000000/node-js.png" alt="Node.js" width="45" height="45"/> <img src="https://img.icons8.com/ios/50/ffffff/express-js.png" alt="Express.js" width="45" height="45"/> </p>
 
 ### 🎨 Frontend
 
-<p> <img src="https://img.icons8.com/color/48/000000/nextjs.png" alt="Next.js" width="40" height="40"/> <img src="https://qwik.builder.io/logos/social-card.png" alt="Qwik" width="40" height="40" style="border-radius: 8px;"/> <img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="Angular" width="40" height="40"/> <img src="https://img.icons8.com/color/48/000000/vue-js.png" alt="Vue.js" width="40" height="40"/> </p>
+<p> <img src="https://img.icons8.com/fluent/48/000000/nextjs.png" alt="Next.js" width="45" height="45"/> <img src="https://cdn.worldvectorlogo.com/logos/qwik.svg" alt="Qwik" width="45" height="45" style="filter: brightness(0) invert(1);"/> <img src="https://img.icons8.com/fluent/48/000000/angularjs.png" alt="Angular" width="45" height="45"/> <img src="https://img.icons8.com/fluent/48/000000/vue-js.png" alt="Vue.js" width="45" height="45"/> </p>
 
 ---
 
