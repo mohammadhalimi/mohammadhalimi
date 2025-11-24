@@ -34,13 +34,13 @@ I love working across the entire stack, from backend logic to frontend UI/UX.
 
 <p align="left">
   <a href="https://mohammadhalimi.ir" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/domain.png" alt="Website" width="30"/>
+    <img src="https://img.icons8.com/fluent/48/000000/domain.png" alt="Website" width="50"/>
   </a>
   <a href="https://linkedin.com/in/mohammad-halimi-a85b62299" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" width="30"/>
+    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" width="50"/>
   </a>
   <a href="https://t.me/Mohammad_halimi" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/telegram-app.png" alt="Telegram" width="30"/>
+    <img src="https://img.icons8.com/fluent/48/000000/telegram-app.png" alt="Telegram" width="50"/>
   </a>
 </p>
 
