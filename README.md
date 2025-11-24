@@ -15,7 +15,7 @@ I love working across the entire stack, from backend logic to frontend UI/UX.
 
 ### 🎨 Frontend
 
-<p> <img src="https://img.icons8.com/fluent/48/000000/nextjs.png" alt="Next.js" width="45" height="45"/> <img src="https://qwik.builder.io/logos/social-card.png" alt="Qwik" width="60" height="60" style="border-radius: 8px;"/> <img src="https://img.icons8.com/fluent/48/000000/angularjs.png" alt="Angular" width="45" height="45"/> <img src="https://img.icons8.com/color/48/000000/vue-js.png" alt="Vue.js" width="45" height="45"/> </p>
+<p> <img src="https://img.icons8.com/fluent/48/000000/nextjs.png" alt="Next.js" width="45" height="45"/> <img src="https://qwik.builder.io/logos/social-card.png](https://logowik.com/content/uploads/images/qwik-framework1788.logowik.com.webp" alt="Qwik" width="60" height="60" style="border-radius: 8px;"/> <img src="https://img.icons8.com/fluent/48/000000/angularjs.png" alt="Angular" width="45" height="45"/> <img src="https://img.icons8.com/color/48/000000/vue-js.png" alt="Vue.js" width="45" height="45"/> </p>
 
 ---
 
