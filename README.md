@@ -11,7 +11,7 @@ I love working across the entire stack, from backend logic to frontend UI/UX.
 
 ### 🧠 Backend
 
-<p> <img src="https://img.icons8.com/fluent/48/000000/node-js.png" alt="Node.js" width="45" height="45"/> <img src="https://img.icons8.com/ios/50/ffffff/express-js.png" alt="Express.js" width="45" height="45"/> </p>
+<p> <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="45" height="45"/> <img src="https://img.icons8.com/ios/50/ffffff/express-js.png" alt="Express.js" width="45" height="45"/> </p>
 
 ### 🎨 Frontend
 
